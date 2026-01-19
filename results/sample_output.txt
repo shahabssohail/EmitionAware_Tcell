@@ -1,0 +1,58 @@
+Frustration level: 0.20
+
+📄 Claim-level analysis:
+
+Paper 0 → NEUTRAL
+
+Paper 1 → NEUTRAL
+
+Paper 2 → NEUTRAL
+
+Paper 3 → NEGATIVE
+
+Paper 4 → NEUTRAL
+
+Paper 5 → NEGATIVE
+ 
+Paper 6 → NEUTRAL
+
+Paper 7 → POSITIVE
+ 
+Paper 8 → NEUTRAL
+
+Paper 9 → NEUTRAL
+
+Paper 10 → NEUTRAL
+
+Paper 11 → NEGATIVE
+ 
+Paper 12 → NEGATIVE
+ 
+Paper 13 → NEUTRAL
+
+Paper 14 → BOTH
+  + Positive cues: ['promotes']
+  - Negative cues: ['unclear']
+
+Paper 15 → NEUTRAL
+
+Paper 16 → NEUTRAL
+
+Paper 17 → NEUTRAL
+
+Paper 18 → NEUTRAL
+
+Paper 19 → NEUTRAL
+
+✨ Computing term-level curiosity...
+
+cells → novelty 0.169
+cell → novelty 0.158
+
+🧬 Analyzing gene–pathway co-occurrence...
+
+🧪 High-curiosity gene–pathway pairs:
+tcr × immune tolerance → rarity 0.95
+tcr × inflammation → rarity 0.89
+cd4 × immune tolerance → rarity 0.86
+cd4 × autoimmunity → rarity 0.86
