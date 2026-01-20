@@ -1,0 +1,87 @@
+Paper 0 | PMID: 41269544
+Title: Identification and Characterization of Human Autoreactive T Cells for Autoimmune
+Claim: NEUTRAL
+------------------------------------------------------------
+Paper 1 | PMID: 41139557
+Title: Autoreactive T cells identified in patients with anti-Jo1+ antisynthetase
+Claim: NEUTRAL
+------------------------------------------------------------
+Paper 2 | PMID: 40963604
+Title: Decoding paraneoplastic neuromyelitis optica: a multi-omics investigation of
+Claim: NEUTRAL
+------------------------------------------------------------
+Paper 3 | PMID: 40466907
+Title: The molecular basis of T cell receptor recognition of citrullinated tenascin-C
+Claim: NEGATIVE
+  - Negative cues: ['unclear']
+------------------------------------------------------------
+Paper 4 | PMID: 40422256
+Title: Chimeric Autoantibody Receptor- and/or Peptide-MHC-Based CAR Therapies for
+Claim: NEUTRAL
+------------------------------------------------------------
+Paper 5 | PMID: 39836983
+Title: Origins of T-cell-mediated autoimmunity in acquired aplastic anaemia.
+Claim: NEGATIVE
+  - Negative cues: ['unknown']
+------------------------------------------------------------
+Paper 6 | PMID: 39665863
+Title: Analysis of antigen specificity of Treg clonotypes expanded upon SARS-CoV-2
+Claim: NEUTRAL
+------------------------------------------------------------
+Paper 7 | PMID: 39606441
+Title: Cancer Immunotherapy Using AIRE Conditioning of the Tumor Epitopeome.
+Claim: POSITIVE
+  + Positive cues: ['induces']
+------------------------------------------------------------
+Paper 8 | PMID: 39496501
+Title: Antigen-specific modulation of chronic experimental autoimmune encephalomyelitis
+Claim: NEUTRAL
+------------------------------------------------------------
+Paper 9 | PMID: 39476446
+Title: Identification of a novel PDC-E2 epitope in primary biliary cholangitis:
+Claim: NEUTRAL
+------------------------------------------------------------
+Paper 10 | PMID: 39141985
+Title: Antigen-specific T cells and autoimmunity.
+Claim: NEUTRAL
+------------------------------------------------------------
+Paper 11 | PMID: 38956325
+Title: High-throughput discovery of MHC class I- and II-restricted T cell epitopes using
+Claim: NEGATIVE
+  - Negative cues: ['unknown']
+------------------------------------------------------------
+Paper 12 | PMID: 38571941
+Title: Identification of apolipoprotein B-reactive CDR3 motifs allows tracking of
+Claim: NEGATIVE
+  - Negative cues: ['unknown']
+------------------------------------------------------------
+Paper 13 | PMID: 38510258
+Title: The self-reactive FVIII T cell repertoire in healthy individuals relies on a
+Claim: NEUTRAL
+------------------------------------------------------------
+Paper 14 | PMID: 38363829
+Title: T cell help shapes B cell tolerance.
+Claim: BOTH
+  + Positive cues: ['promotes']
+  - Negative cues: ['unclear']
+------------------------------------------------------------
+Paper 15 | PMID: 38321013
+Title: Smith-specific regulatory T cells halt the progression of lupus nephritis.
+Claim: NEUTRAL
+------------------------------------------------------------
+Paper 16 | PMID: 37330172
+Title: Complimentary electrostatics dominate T-cell receptor binding to a
+Claim: NEUTRAL
+------------------------------------------------------------
+Paper 17 | PMID: 35967436
+Title: TCR-like antibodies targeting autoantigen-mhc complexes: a mini-review.
+Claim: NEUTRAL
+------------------------------------------------------------
+Paper 18 | PMID: 35667687
+Title: Autoreactive CD8 T cells in NOD mice exhibit phenotypic heterogeneity but
+Claim: NEUTRAL
+------------------------------------------------------------
+Paper 19 | PMID: 34972837
+Title: Biased TCR gene usage in citrullinated Tenascin C specific T-cells in rheumatoid
+Claim: NEUTRAL
+------------------------------------------------------------
